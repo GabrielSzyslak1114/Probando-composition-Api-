@@ -38,7 +38,7 @@ export default {
     titulo: String,
     subTitulo: String,
     body: String,
-        urlBtn: String,
+    urlBtn: String,
     textoBtn: String
   },
   data() {
@@ -49,7 +49,6 @@ export default {
   methods:{
     toggleMenu(){
       this.menu = !this.menu
-   
     }
   },
   computed:{
