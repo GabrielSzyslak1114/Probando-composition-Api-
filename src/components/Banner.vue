@@ -72,7 +72,6 @@ export default {
   background: linear-gradient($color-primary, $color-secundary);
     @media  (max-width: 770px) {
     padding: 100px 40px;
-    min-height: 720px !important;
     }
     .logo{
     position: fixed;

@@ -36,7 +36,8 @@ body{
 .body-page{
       width: 100%;
     padding: 0 60px 0 0;
-
+max-width: 100%;
+    overflow: hidden;
       @media (max-width: 770px) {
         padding: 0 0 0 0px;
       
