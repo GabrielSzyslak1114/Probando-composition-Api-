@@ -27,6 +27,7 @@ export default {
     min-height: 180px;
     background: $color-background;
     overflow: hidden;
+    max-width: 100%;
     @media (max-width: 792px) {
     justify-content: center; 
     }
